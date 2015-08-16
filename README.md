@@ -1,6 +1,1 @@
-# gitskills
-hello world.
-admin
-duola
-2222
-8888
+不好意思，这是学习git使用的测试项目。
